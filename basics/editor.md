@@ -20,7 +20,7 @@ layout:
 
 Homerun Desktop allows you to set up a Minecraft server in just one click. Start playing instantly with default settings or customize your experience by adjusting advanced settings.
 
-<figure><img src="../.gitbook/assets/create a server.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 1.png" alt=""><figcaption></figcaption></figure>
 
 ### Basic server creation
 
