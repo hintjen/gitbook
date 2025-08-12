@@ -22,7 +22,7 @@ layout:
 
 ## Power the server on
 
-To start your server, press the Start Server (▶) button for the world you wish to power on. The server will begin running on your current device.
+To start your server, press the Start Server (▶️) button for the world you wish to power on. The server will begin running on your current device.
 
 ## Power the server off
 
