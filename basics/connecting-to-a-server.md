@@ -4,7 +4,7 @@ icon: wifi
 
 # Connecting to a server
 
-<figure><img src="../.gitbook/assets/shorter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/minecraftmulti3.png" alt=""><figcaption></figcaption></figure>
 
 ## Joining with Minecraft Java Edition
 

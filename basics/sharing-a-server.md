@@ -4,7 +4,7 @@ icon: share-nodes
 
 # Sharing a server
 
-<figure><img src="../.gitbook/assets/Frame 1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 1 (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Sharing your Server Info webpage
 
