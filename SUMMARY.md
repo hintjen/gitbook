@@ -2,10 +2,6 @@
 
 * [Welcome to Homerun Desktop](README.md)
 
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-
 ## Basics
 
 * [Creating a server](basics/editor.md)
