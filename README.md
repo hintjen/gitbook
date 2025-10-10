@@ -18,6 +18,8 @@ layout:
 
 # Welcome to Homerun Desktop
 
-Discover Homerun Desktop, the ultimate Minecraft hosting solution for seamless gameplay. Tailored specifically for gamers, it offers unmatched speed, reliability, and customization.&#x20;
+<figure><picture><source srcset=".gitbook/assets/house.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/image (1).png" alt=""></picture><figcaption></figcaption></figure>
 
-With easy setup and 24/7 support, you can focus on building your world while homerun desktop handles the rest. Elevate your Minecraft experience today!
+Discover Homerun Desktop, the ultimate Minecraft hosting solution for seamless gameplay.
+
+With a simple one-click setup, you can focus on building your world while Homerun Desktop handles the rest. Elevate your Minecraft experience today!
