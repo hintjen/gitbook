@@ -18,4 +18,4 @@
 
 ## Info
 
-* [Windows Privilege Escalation Requirement](info/windows-privilege-escalation-requirement.md)
+* [Windows privilege escalation requirement](info/windows-privilege-escalation-requirement.md)

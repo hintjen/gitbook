@@ -1,4 +1,8 @@
-# Windows Privilege Escalation Requirement
+---
+icon: window
+---
+
+# Windows privilege escalation requirement
 
 ### Why does Homerun Desktop require admin privileges?
 
