@@ -1,25 +1,12 @@
----
-icon: hand-wave
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
+# Windows Privilege Escalation Requirement
 
-# Welcome to Homerun Desktop
+### Why does Homerun Desktop require admin privileges?
 
-<figure><picture><source srcset=".gitbook/assets/house.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/image (1).png" alt=""></picture><figcaption></figcaption></figure>
+**Homerun Desktop** leverages an optional Windows feature named \[Windows Subsystem for Linux (WSL)] ([https://learn.microsoft.com/en-us/windows/wsl/about](https://learn.microsoft.com/en-us/windows/wsl/about)) to manage running your servers.&#x20;
 
-Discover Homerun Desktop, the ultimate Minecraft hosting solution for seamless gameplay.
+**Homerun Desktop** was built to use the special features of Linux that allow us to make running and backing up your servers as simple as possible, minimizing the amount of software you have to have downloaded on your PC. No more having to install Java!
 
-With a simple one-click setup, you can focus on building your world while Homerun Desktop handles the rest. Elevate your Minecraft experience today!
+&#x20;In order to enable the Windows Subsystem for Linux feature, **Windows requires Administrator privileges** for WSL's installation process.
+
+
+
