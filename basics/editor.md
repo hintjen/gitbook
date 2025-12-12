@@ -16,31 +16,45 @@ layout:
     visible: true
 ---
 
-# Creating a server
+# Creating a Java Minecraft server
 
 <figure><img src="../.gitbook/assets/Frame 1.png" alt=""><figcaption></figcaption></figure>
 
-## Basic server creation
+## Java Minecraft server creation
 
 Creating a server with Homerun Desktop requires no input or settings changes.
 
 {% stepper %}
 {% step %}
-### Open the prompt
+### Begin server creation
 
-Click either the **"Add a server +"** button on the Dashboard or the **"Create Minecraft Server"** button on the sidebar to open the server creation prompt.
+Click either the **"Add a server +"** button on the Dashboard or the **"Create Minecraft Server"** button on the sidebar to open the server creation wizard.
 {% endstep %}
 
 {% step %}
-### Select a name and game mode (Optional)
+### Select the "Java Vanilla" option
 
 Enter a server name or use the default "New Minecraft Server"&#x20;
 {% endstep %}
 
 {% step %}
-### Create the server
+### Configure your server (Optional)
 
-Click the **"Create Server ->"** button at the bottom of the prompt to finish creating your server and begin playing Minecraft.
+Enter a server name, select a game mode, choose a game difficulty, or click continue to use the default options.&#x20;
+
+Advanced settings, such as game version, world import, max players, and more are available by clicking the **Advanced Settings** button.
+{% endstep %}
+
+{% step %}
+### Invite additional hosts (Optional)
+
+Enter the email addresses of any friends you wish to invite as Homerun Desktop hosts. The invited users will be able to run the server from their PC when it is offline.
+{% endstep %}
+
+{% step %}
+### Finish server creation
+
+Click the **"Create Server →"** button at the bottom of the window to finish creating your server and begin playing Minecraft Java Edition.
 {% endstep %}
 {% endstepper %}
 

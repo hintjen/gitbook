@@ -4,7 +4,7 @@
 
 ## Basics
 
-* [Creating a server](basics/editor.md)
+* [Creating a Java Minecraft server](basics/editor.md)
 * [Starting and stopping a server](basics/editor-1.md)
 * [Connecting to a server](basics/connecting-to-a-server.md)
 * [Sharing a server](basics/sharing-a-server.md)
